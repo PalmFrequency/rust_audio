@@ -1,0 +1,9 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+
+# Local environment / IDE overrides (keep shared .vscode settings if desired)
+.env
+*.log
+.DS_Store
+Thumbs.db
