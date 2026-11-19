@@ -1,6 +1,8 @@
 /*
+
 Here is a complete, zero-dependency DSP test script for src/main.rs that demonstrates structs (state),
 traits (polymorphic audio processing), and iterators (zero-allocation sample pipelines).
+
 */
 
 use std::f32::consts::TAU; // TAU = 2 * PI
